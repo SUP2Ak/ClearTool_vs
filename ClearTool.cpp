@@ -3,7 +3,7 @@
 #include <iostream>
 #include "framework.h"
 #include "WindowsProject1.h"
-#include "theme.cpp"
+#include "theme.h"
 
 #define MAX_LOADSTRING 100
 

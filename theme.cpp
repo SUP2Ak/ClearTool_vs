@@ -1,5 +1,4 @@
-#pragma once
-
+#include "theme.h"
 #include <Windows.h>
 
 // Ajoutez cette fonction à votre code
