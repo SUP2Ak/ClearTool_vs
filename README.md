@@ -1,1 +1,1 @@
-# ClearTool (WORK IN PROGRESS)
+# ClearTool (ABANDONNED)
